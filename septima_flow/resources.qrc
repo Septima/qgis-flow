@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/septima_flow" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
