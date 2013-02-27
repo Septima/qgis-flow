@@ -1,3 +1,7 @@
+# Temporary packaging dir 
+TMP/
+
+# Compiled py
 *.py[cod]
 
 # C extensions
