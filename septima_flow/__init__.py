@@ -3,7 +3,7 @@
 /***************************************************************************
  septima_flow
                                  A QGIS plugin
- Simlulering af væskeudslip på Danmarks Højdmeodel
+ Simulering af væskeudslip på Danmarks Højdmeodel
                              -------------------
         begin                : 2013-02-22
         copyright            : (C) 2013 by Septima
@@ -27,11 +27,11 @@ def name():
 
 
 def description():
-    return "Simlulering af væskeudslip på Danmarks Højdmeodel"
+    return "Simulering af væskeudslip på Danmarks Højdmeodel"
 
 
 def version():
-    return "Version 0.1"
+    return "Version 0.1.0"
 
 
 def icon():

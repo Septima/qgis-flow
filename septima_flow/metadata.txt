@@ -11,8 +11,8 @@
 [general]
 name=Septima Væskeudslip
 qgisMinimumVersion=1.8
-description=Simlulering af væskeudslip på Danmarks Højdmeodel
-version=0.1
+description=Simulering af væskeudslip på Danmarks Højdmeodel
+version=0.1.0
 author=Septima
 email=kontakt@septima.dk
 
@@ -26,9 +26,9 @@ email=kontakt@septima.dk
 # tags are comma separated with spaces allowed
 tags=
 
-homepage=
-tracker=
-repository=
+homepage=http://www.septima.dk
+tracker=https://github.com/Septima/qgis-flow/issues
+repository=https://github.com/Septima/qgis-flow
 icon=icon.png
 # experimental flag
 experimental=False
