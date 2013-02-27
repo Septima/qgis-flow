@@ -23,15 +23,15 @@
 
 
 def name():
-    return "Septima Væskeudslip"
+    return u"Septima Væskeudslip"
 
 
 def description():
-    return "Simulering af væskeudslip på Danmarks Højdmeodel"
+    return u"Simulering af væskeudslip på Danmarks Højdmeodel"
 
 
 def version():
-    return "Version 0.1.0"
+    return "Version 0.1.1"
 
 
 def icon():
